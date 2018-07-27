@@ -106,7 +106,7 @@ def alegerecuvant():
     cuvant = random.choice(cuvinte)
     return cuvant
 def curatare():
-    os.system('clear')atom://teletype/portal/b0ac8b90-e8fa-4ee4-84e9-f588568f4ed4
+    os.system('clear')
 cuvant = alegerecuvant()
 print(cuvant)
 lungime = len(cuvant)
